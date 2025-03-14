@@ -1,0 +1,24 @@
+{
+  "name": "cypress-e2e-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernandezluisqa/Cypress-E2E-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hernandezluisqa/Cypress-E2E-Framework/issues"
+  },
+  "homepage": "https://github.com/hernandezluisqa/Cypress-E2E-Framework#readme",
+  "dependencies": {
+    "cypress": "^14.2.0"
+  }
+}
