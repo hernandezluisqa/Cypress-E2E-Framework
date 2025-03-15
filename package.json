@@ -20,5 +20,9 @@
   "homepage": "https://github.com/hernandezluisqa/Cypress-E2E-Framework#readme",
   "dependencies": {
     "cypress": "^14.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^11.1.0",
+    "typescript": "^5.8.2"
   }
 }
