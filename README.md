@@ -1,6 +1,4 @@
-[TOCM]
-
-#Iniciando con Cypress
+# <a name="iniciando-con-cypress"></a>Iniciando con Cypress
 
 Instalar [VSC](https://code.visualstudio.com/download)
 - Extensiones:
