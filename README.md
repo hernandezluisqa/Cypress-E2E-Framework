@@ -1,6 +1,6 @@
 # <a name="iniciando-con-cypress"></a>Iniciando con Cypress
 
-Instalar [VSC](https://code.visualstudio.com/download)
+- Instalar [VSC](https://code.visualstudio.com/download)
 - Extensiones:
     - [Bracket Pair Colorizer ](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
     - [Live Server ](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer "Live Server ")
