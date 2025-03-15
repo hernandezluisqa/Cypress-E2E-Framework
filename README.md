@@ -1,4 +1,4 @@
-# <a name="iniciando-con-cypress"></a>Iniciando con Cypress
+# Iniciando con Cypress
 
 - Instalar [VSC](https://code.visualstudio.com/download)
 - Extensiones:
