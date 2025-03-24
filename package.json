@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "cypress:chrome": "cypress run --browser chrome --spec cypress/e2e/*.cy.ts"
   },
   "repository": {
     "type": "git",
