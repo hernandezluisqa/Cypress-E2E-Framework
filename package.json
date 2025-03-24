@@ -6,7 +6,7 @@
   "scripts": {
     "test": "cypress open",
     "cypress:chrome": "cypress run --browser chrome --spec cypress/e2e/*.cy.ts",
-    "cypress:edge": "cypress run --browser edge --spec cypress/e2e/*.cy.ts"
+    "cypress:firefox": "cypress run --browser firefox --spec cypress/e2e/*.cy.ts"
   },
   "repository": {
     "type": "git",
